@@ -9,3 +9,4 @@ TODO:
 - Allow for other types of inputs in vertex array ctor + Float#/Vector#, etc.
 - Deal with 0 arg ctor in vertex array ctor.
 - void* cast warning.
+- Wireframe abstraction.
